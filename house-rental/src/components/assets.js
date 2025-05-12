@@ -1,0 +1,73 @@
+export const destinations = [
+    {
+        id: 1,
+        name: "Bed room",
+        imageUrL: "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+    {
+        id: 2,
+        name: "Kitchen",
+        imageUrL: "https://images.unsplash.com/photo-1613545564259-ede280773613?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+    {
+        id: 3,
+        name: "Front House",
+        imageUrL: "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+    {
+        id: 4,
+        name: "Paris",
+        imageUrL: "https://plus.unsplash.com/premium_photo-1682377521625-c656fc1ff3e1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+    {
+        id: 5,
+        name: "Relax",
+        imageUrL: "https://plus.unsplash.com/premium_photo-1682377521564-b180edfc960c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+    {
+        id: 6,
+        name: "Luxury House",
+        imageUrL: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$10000",
+    },
+    {
+        id: 7,
+        name: "Paris",
+        imageUrL: "https://images.unsplash.com/photo-1628744448840-55bdb2497bd4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+    {
+        id: 8,
+        name: "Paris",
+        imageUrL: "https://images.unsplash.com/photo-1613545325268-9265e1609167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+    {
+        id: 9,
+        name: "Paris",
+        imageUrL: "https://images.unsplash.com/photo-1670589953882-b94c9cb380f5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+    {
+        id: 10,
+        name: "Paris",
+        imageUrL: "https://images.unsplash.com/photo-1612965607446-25e1332775ae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "The City of Light",
+        price: "$1000",
+    },
+   
+];
